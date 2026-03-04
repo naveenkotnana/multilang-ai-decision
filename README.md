@@ -88,6 +88,10 @@ Then visit **http://localhost:8501** 🎉
 
 ## 📊 Sample Output
 
+https://github.com/user-attachments/assets/8b3f852a-685b-4c1a-a1f0-145df5038851
+
+
+
 ```
 🔥 URGENCY: HIGH (97.9%)
 🚨 ACTION: ESCALATE_TO_TIER2
